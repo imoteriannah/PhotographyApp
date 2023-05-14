@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-header {
+    width: 100%;
+    padding: 8px 16px;
+    background-color: #2ddf5c;
+    
+}
+
+.main-header > div {
+    display: inline-block;
+}
+
+.main-nav {
+    display: inline-block;
+}
+.main-nav-item {
+    display: inline-block;
+    padding: 5px 10px;
+}
