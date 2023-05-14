@@ -1,0 +1,51 @@
+.contact-form {
+    background: #431275;
+}
+
+.contact-form form {
+    background: #19042d;
+    color: white;
+    width: 80%;
+    align-content: center;
+}
+
+#Enquiry {
+    display: block;
+    align-items: center;
+    align-content: center;
+}
+.form-entry { margin: 0 auto 1.25rem auto;
+     padding: 0.25rem; 
+    }
+    
+ /*.Enquiry-form { width: 80%; margin: auto; }   */
+.form-item {
+        display: block;
+        width: 80%;
+        height: 25px;
+        background-clip: padding-box;
+        align-content: center;
+    }
+    
+    .form-item:focus {
+        border-color: rgb(238, 217, 217); 
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25)
+    }
+    
+    
+    textarea {
+        min-height: 125px;
+        width: 100%;
+        resize: vertical;
+        padding: 3px;
+        border-radius: 5px;
+    }
+    #submit {
+        width: 80%;
+        border-radius: 4px;
+        background-color: green;
+        padding: 0.75rem;
+        cursor: pointer;
+        color: white;
+    }
