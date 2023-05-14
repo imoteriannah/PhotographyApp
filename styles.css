@@ -1,5 +1,8 @@
 .contact-form {
     background: #431275;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
 }
 
 .contact-form form {
@@ -14,10 +17,15 @@
     align-items: center;
     align-content: center;
 }
-.form-entry { margin: 0 auto 1.25rem auto;
+.form-entry { 
+    width: 80%;
+    margin: 0 auto 1.25rem auto;
      padding: 0.25rem; 
     }
-    
+    .center {
+        text-align: center;
+        color: white;
+    }
  /*.Enquiry-form { width: 80%; margin: auto; }   */
 .form-item {
         display: block;
