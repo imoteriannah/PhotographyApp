@@ -134,3 +134,13 @@ img {
         cursor: pointer;
         color: white;
     }
+    .quote {
+        text-align: center;
+        color: white;
+    }
+
+    blockquote {
+        padding: 20px;
+        font-weight: 12px;
+        font-style: italic;
+    }
