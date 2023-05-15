@@ -10,7 +10,7 @@
 
 ## APP URL on gh-pages
 
-https://github.com/imoteriannah/PhotographyApp/pull/new/gh-pages
+https://imoteriannah.github.io/PhotographyApp
 
 {just fork the repository and you will get the full contents of the site. 
 then you can double click on the index.html file in the application folder to get the page served}
