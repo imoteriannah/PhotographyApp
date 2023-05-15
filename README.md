@@ -8,6 +8,10 @@
 * run the server pointing it to the root folder
 * the web app will be served to your screen.
 
+## APP URL on gh-pages
+
+https://github.com/imoteriannah/PhotographyApp/pull/new/gh-pages
+
 {just fork the repository and you will get the full contents of the site. 
 then you can double click on the index.html file in the application folder to get the page served}
 ## Known Bugs
