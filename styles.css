@@ -1,3 +1,9 @@
+.img-card {
+    width: 30%;
+    padding: 5px;
+    
+}
+
 .contact-form {
     background: #431275;
     width: 80%;
@@ -10,13 +16,19 @@
     color: white;
     width: 80%;
     align-content: center;
+    margin: auto;
+    border-radius: 20px;
 }
-
+#name {
+    padding-top: 15px;
+}
 #Enquiry {
+    width: 100%;
     display: block;
     align-items: center;
     align-content: center;
 }
+
 .form-entry { 
     width: 80%;
     margin: 0 auto 1.25rem auto;
@@ -25,6 +37,7 @@
     .center {
         text-align: center;
         color: white;
+        padding: 10px;
     }
  /*.Enquiry-form { width: 80%; margin: auto; }   */
 .form-item {
