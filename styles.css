@@ -135,14 +135,6 @@ img {
         cursor: pointer;
         color: white;
     }
-/*
-    .bio-image-cont {
-        width: 350px;
-        height: 200px;
-        padding: 5px;
-        margin: auto;
-        object-fit: contain;
-    }*/
 
     .bio-image {
 float:right;
